@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">cityExplorer</string>
+    <string name="open_in_google_maps">Open in Google Maps</string>
+</resources>
