@@ -24,9 +24,7 @@ An Android app built using Java that displays a list of cities and allows users 
 
 ---
 
-## 📷 Screenshots
 
-_Add your screenshots here (optional)_
 
 ---
 ## appDemo Video
